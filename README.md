@@ -1,6 +1,6 @@
-Digital Library Program
+## Digital Library Program
 
-This repository contains a simple command-line interface (CLI) application for managing a digital library. It demonstrates basic CRUD (Create, Read, Update, Delete) operations on a collection of book records.
+# This repository contains a simple command-line interface (CLI) application for managing a digital library. It demonstrates basic CRUD (Create, Read, Update, Delete) operations on a collection of book records.
 Features
 
 -  Create Data: Add new book records (title, author, publication year).
@@ -14,7 +14,7 @@ Features
 -  Cross-Platform Compatibility: Clears the console screen based on the operating system (posix for Linux/macOS, nt for Windows).
   
 
-What I Learned
+# What I Learned
 
 Building this digital library program helped me solidify my understanding of several fundamental Python concepts:
 
